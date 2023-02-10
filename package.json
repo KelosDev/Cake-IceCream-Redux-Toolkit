@@ -1,0 +1,23 @@
+{
+  "name": "cake-icecream-redux-toolkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KelosDev/Cake-IceCream-Redux-Toolkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KelosDev/Cake-IceCream-Redux-Toolkit/issues"
+  },
+  "homepage": "https://github.com/KelosDev/Cake-IceCream-Redux-Toolkit#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.2"
+  }
+}
