@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/KelosDev/Cake-IceCream-Redux-Toolkit#readme",
   "dependencies": {
-    "@reduxjs/toolkit": "^1.9.2"
+    "@reduxjs/toolkit": "^1.9.2",
+    "redux-logger": "^3.0.6"
   }
 }
